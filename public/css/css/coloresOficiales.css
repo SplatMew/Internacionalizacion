@@ -1,0 +1,51 @@
+#content{
+	background: linear-gradient(to bottom,#cacaca, #eaeaea, #f3f4f5, #ffffff, #ffffff);
+}
+#sidebar{
+	background: #00723e;
+}
+#sidebarCollapse{
+	background: #df9717;
+	border-color: #df9717;
+	/* Arriba | Derecha | Abajo | Izquierda */
+	margin: 0px 5px 0px 5px;
+}
+#mapa_sitio{
+	box-shadow: 0px 5px 15px #aeaeae; 
+	border-radius: 8px;
+}
+#btn_agregar{
+	color: white;
+	background: #00723e;
+    font-weight: 500;
+    box-shadow: 0px 6px 6px #b6b6b6;
+}
+#btnExportar{
+	color: white;
+	background: #00723e;
+    font-weight: 500;
+    box-shadow: 0px 6px 6px #b6b6b6;
+}
+#btn_verde{
+  background: #00723e;
+  font-weight: 500;
+  color: white;
+  border-color: #00723e;
+  box-shadow: 0px 6px 6px #b6b6b6;
+  width: 20%;
+  border-radius: 4px;
+  padding: 5px 8px 5px 8px;
+}
+#btn_verde2{
+  background: #00723e;
+  border-color: #00723e;
+  color: white;
+  font-weight: 500;
+  border-color: #00723e;
+  box-shadow: 0px 6px 6px #b6b6b6;
+  border-radius: 4px;
+  padding: 5px 8px 5px 8px;
+}
+.Separacion_s{
+    height: 25px;
+}

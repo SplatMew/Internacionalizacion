@@ -1,0 +1,56 @@
+body {
+            background: #00723e;
+        }
+        .bg {
+            background: linear-gradient(to right, #e5e5e5, #FFFFFF,#FFFFFF,#FFFFFF);
+            background-position: center center;
+           
+        }
+
+        .col-center {
+            float: none;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        #indicaciones{
+            font-size: 12px;
+            font-weight: bolder;
+        }
+        #btnBuscarUA{
+            margin:0 0 0 auto;
+        }
+        
+        #btnBuscarUA{
+            background: #00723e;
+            box-shadow: 0px 6px 6px #b6b6b6;
+
+        }
+        #btn_preguntas{
+            background: #df9717;
+            font-weight: 400;
+            box-shadow: 0px 6px 6px #b6b6b6;
+            color: white;
+        }
+        #acceso_usuarios{
+            background: #00723e;
+        }
+        #btn_administracion{
+            background: #df9717;
+            font-weight: 600;
+            box-shadow: 0px 6px 6px #b6b6b6;
+
+        }
+        #btn_soporte{
+            background: #00723e;
+            font-weight: 500;
+            box-shadow: 0px 6px 6px #b6b6b6;
+        }
+
+        #btn_acceso_google{
+            font-weight: 600;
+        }
+        #zona_principal{
+            
+            background: #FFFFFF;
+            border-radius: 5px;
+        }
