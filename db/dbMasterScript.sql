@@ -1,6 +1,6 @@
 create database inter;
 
-
+Use inter;
 
 CREATE TABLE `perfil_academicos_entrada` (
   `VISITANTE_ID` int unsigned NOT NULL COMMENT 'Clave de identificación del academico visitante',
